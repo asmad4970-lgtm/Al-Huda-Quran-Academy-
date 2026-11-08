@@ -1,0 +1,6 @@
+{
+  "name": "Al Huda Quran Academy",
+  "description": "Learn Quran Online with Excellence. Discover the Beauty of the Holy Quran with Qualified Teachers from the Comfort of Your Home.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
